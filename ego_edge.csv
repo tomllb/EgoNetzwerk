@@ -1,7 +1,0 @@
-from;to;weight;duration;relationship
-Ego;Alexander Scharfenberg;4;3;10
-Ego;Anabelle Beyer;4;3;2
-Ego;Alina Braun;4;1;10
-Ego;Ferdinand Fickinger;3;3;10
-Alexander Scharfenberg;Ferdinand Fickinger;4;3;10
-Ferdinand Fickinger;Alexander Scharfenberg;4;3;10

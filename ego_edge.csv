@@ -1,7 +1,0 @@
-from,to,weight,duration,relationship
-Ego,Alexander,4,3,10
-Ego,Anabelle,4,3,2
-Ego,Alina,4,1,10
-Ego,Ferdinand,3,3,10
-Alexander,Ferdinand,4,3,10
-Ferdinand,Alexander,4,3,10

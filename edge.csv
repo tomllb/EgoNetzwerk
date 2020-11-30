@@ -1,0 +1,16 @@
+from,to
+Luke,Vader
+Vader,Luke
+Luke,Han
+Luke,Leia
+Leia,Luke
+Han,Leia
+Leia,Han
+R2D2,Luke
+R2D2,Kenobi
+Kenobi,Luke
+Kenobi,Vader
+Kenobi,R2D2
+C3PO,R2D2
+C3PO,Luke
+Luke,C3PO
